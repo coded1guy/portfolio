@@ -3,10 +3,11 @@
     <img
       alt="Vue logo" 
       src="@/assets/logo/light-mode-logo.png" 
-      width="480"
-      height="480"
+      width="380"
+      height="380"
     />
     <HelloWorld msg="Welcome to my world :)" />
+    <HelloWorld msg="coming soon" />
   </div>
 </template>
 
