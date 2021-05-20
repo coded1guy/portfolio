@@ -1,6 +1,11 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="@/assets/logo/light-mode-logo.png" />
+    <img
+      alt="Vue logo" 
+      src="@/assets/logo/light-mode-logo.png" 
+      width="480"
+      height="480"
+    />
     <HelloWorld msg="Welcome to my world :)" />
   </div>
 </template>
